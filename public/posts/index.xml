@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 🎯 BIM Ineco</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 🎯 BIM Ineco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Apr 2024 10:36:38 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/posts/markdown/</link>
+      <pubDate>Wed, 24 Apr 2024 10:36:38 +0200</pubDate>
+      <guid>http://localhost:1313/posts/markdown/</guid>
+      <description>¿Qué es Markdown?&#xA;Markdown es un lenguaje de marcado ligero que te permite formatear texto de manera fácil y rápida utilizando un formato de texto plano. Es especialmente útil para escribir contenido web, como publicaciones de blog, ya que te permite agregar formato sin tener que escribir HTML complejo. ¿Cómo usar Markdown para escribir publicaciones de blog?&#xA;Markdown utiliza una serie de caracteres especiales para aplicar formato al texto. Aquí tienes algunos ejemplos comunes:</description>
+    </item>
+    <item>
+      <title>Blender</title>
+      <link>http://localhost:1313/posts/blender/</link>
+      <pubDate>Tue, 23 Apr 2024 10:09:05 +0200</pubDate>
+      <guid>http://localhost:1313/posts/blender/</guid>
+      <description>Blender es un programa de software de código abierto y gratuito que se utiliza para la creación de gráficos en 3D, animaciones, modelado, renderizado y más. Es una herramienta versátil y potente que es utilizada por artistas digitales, diseñadores, animadores y profesionales de efectos visuales.&#xA;Algunas de las características clave de Blender incluyen:&#xA;Modelado 3D: Permite la creación de modelos tridimensionales utilizando diversas herramientas de modelado, como mallas, superficies y curvas.</description>
+    </item>
+  </channel>
+</rss>
