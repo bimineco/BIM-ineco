@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = '🎯 BIM Ineco'
+title = 'BIM Ineco'
 theme = 'ananke'

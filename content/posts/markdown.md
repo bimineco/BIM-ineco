@@ -11,7 +11,12 @@ Markdown es un lenguaje de marcado ligero que te permite formatear texto de mane
 
 Markdown utiliza una serie de caracteres especiales para aplicar formato al texto. Aquí tienes algunos ejemplos comunes:
 
-Encabezados: Utiliza el símbolo "#" seguido de un espacio para crear encabezados. Por ejemplo, # Encabezado 1, ## Encabezado 2, etc.
+Encabezados: Utiliza el símbolo "#" seguido de un espacio para crear encabezados. Por ejemplo:
+ # Encabezado 1
+ ## Encabezado 2
+ ### Encabezado 3
+ , etc.
+
 Énfasis: Utiliza asteriscos (*) o guiones bajos (_) alrededor de una palabra o frase para enfatizarla. Por ejemplo, *énfasis* o _énfasis_.
 Listas: Puedes crear listas utilizando asteriscos (*), guiones (-) o signos más (+). Por ejemplo:
 
