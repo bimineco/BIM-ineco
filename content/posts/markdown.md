@@ -17,7 +17,10 @@ Encabezados: Utiliza el símbolo "#" seguido de un espacio para crear encabezado
  ### Encabezado 3
  , etc.
 
-Énfasis: Utiliza asteriscos (*) o guiones bajos (_) alrededor de una palabra o frase para enfatizarla. Por ejemplo, *énfasis* o _énfasis_.
+Énfasis: Utiliza asteriscos (*) o guiones bajos (_) alrededor de una palabra o frase para enfatizarla. Por ejemplo:
+
+_énfasis_ o _énfasis_.
+
 Listas: Puedes crear listas utilizando asteriscos (*), guiones (-) o signos más (+). Por ejemplo:
 
 ```markdown

@@ -6,8 +6,22 @@
     <description>Recent content on BIM Ineco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Apr 2024 10:36:38 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 09:46:09 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power BI y Autodesk Construction Cloud</title>
+      <link>http://localhost:1313/posts/powerbiautodesk/</link>
+      <pubDate>Mon, 29 Apr 2024 09:46:09 +0200</pubDate>
+      <guid>http://localhost:1313/posts/powerbiautodesk/</guid>
+      <description>Etiquetas: ACC, PowerBI&#xA;La semana pasada nuestra compañera Laura Villoslada nos mostraba como crear un tablero o dashboard de PowerBI con los datos del ACC (Autodesk Construction Cloud). Gracias al conector de Datos de Autodesk Construction Cloud (ACC). Este conector permite a los usuarios de ACC integrar datos desde sus proyectos y documentos en otras plataformas y herramientas, como Power BI.&#xA;A continuación te mostramos varios enlaces que puedes consultar para realizarlo.</description>
+    </item>
+    <item>
+      <title>Listar el contenido de una carpeta de Windows</title>
+      <link>http://localhost:1313/posts/carpetaswindows/</link>
+      <pubDate>Mon, 29 Apr 2024 09:42:14 +0200</pubDate>
+      <guid>http://localhost:1313/posts/carpetaswindows/</guid>
+      <description>Listar el contenido de una carpeta de Windows es realmente sencillo. Veamos los pasos que debemos dar:&#xA;Abre la carpeta cuyos archivos quieres listar. Escribe en cmd en la barra de direcciones de la carpeta. En cuanto se abra la consola de sistema, escribe en la consola: dir /b &amp;gt; lista.txt Verás que aparece un documento de texto (.txt) y en su interior tiene el listado de contenidos de la carpeta analizada.</description>
+    </item>
     <item>
       <title>Markdown</title>
       <link>http://localhost:1313/posts/markdown/</link>
